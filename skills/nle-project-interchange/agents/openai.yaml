@@ -1,0 +1,4 @@
+interface:
+  display_name: "NLE Project Interchange"
+  short_description: "Extract cuts and captions across editing apps"
+  default_prompt: "Use $nle-project-interchange to extract cuts and subtitles from an editing project and export interchange files for Resolve, FCP, Premiere, and Jianying."

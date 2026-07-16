@@ -1,0 +1,4 @@
+interface:
+  display_name: "SRT FCPXML Subtitles"
+  short_description: "Generate SRT and Final Cut Pro subtitle XML"
+  default_prompt: "Use $srt-fcpxml-subtitles to turn timestamped subtitle text into SRT and FCPXML files."
